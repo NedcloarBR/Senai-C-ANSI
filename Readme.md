@@ -1,0 +1,1 @@
+Este repositorio está armazenado os códigos feitos durante minhas aulas de Programação Básica (C-ANSI) DA Faculdade durante o primeiro semestre (2023/2)

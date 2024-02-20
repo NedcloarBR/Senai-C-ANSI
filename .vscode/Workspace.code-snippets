@@ -1,0 +1,15 @@
+{
+  "BaseCProject": {
+    "prefix": "!base",
+    "body": [
+      "#include <stdio.h>",
+      "",
+      "int main()",
+      "{",
+      "  ",
+      "  return 0;",
+      "}"
+    ],
+    "description": "BaseCProject"
+  }
+}
